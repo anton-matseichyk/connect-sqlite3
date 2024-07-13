@@ -8,7 +8,7 @@
     "test": "mocha test/test.js"
   },
   "dependencies": {
-    "sqlite3": "^5.0.2"
+    "sqlite3": "5.0.2"
   },
   "devDependencies": {
     "connect": ">=1.0.0",
